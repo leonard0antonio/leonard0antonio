@@ -2,7 +2,7 @@
 
 ## 🌟 Bem-vindo ao meu perfil GitHub! 🌟
 
-<img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeoCraft&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+<img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 
 Sou um desenvolvedor apaixonado por **tecnologia**, **viagens** ✈️, e **jogos** 🎮.  
 Sempre em busca de **aprender**, **criar projetos incríveis** e **contribuir para a comunidade open-source**! 🚀  
@@ -27,8 +27,8 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DevLeoCraft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DevLeoCraft&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonard0antonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=leonard0antonio&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
