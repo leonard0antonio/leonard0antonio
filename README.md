@@ -24,10 +24,6 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
   <div style="display: flex; align-items: center; justify-content: space-between;">
-  &nbsp
-  &nbsp
-  &nbsp
-  &nbsp
   <img src="https://pt.vecteezy.com/foto/48621611-roxa-matizes-as-nascer-do-sol-sobre-montanha-alcance-fundo-natureza";/>
 </div>
 
