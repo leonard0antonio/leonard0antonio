@@ -28,7 +28,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
   &nbsp
   &nbsp
   &nbsp
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh3eDl4bGlpMGRld2l2M25yMnU5Z2dtNWlscHJpOTNta3E1Z3NzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o9c3QvHJXjiI74BTmc/giphy.gif" height="230px";/>
+  <img src="https://pt.vecteezy.com/foto/48621611-roxa-matizes-as-nascer-do-sol-sobre-montanha-alcance-fundo-natureza";/>
 </div>
 
 
