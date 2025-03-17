@@ -13,7 +13,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 ---
 
 <div align="center">
-  <img src="https://unsplash.com/pt-br/fotografias/fotografia-de-paisagem-de-montanhas-r8AFUpRp0J0" alt="Imagem de Fundo" style="border-radius: 10px; width: 100%; max-width: 600px;" />
+  <img src="https://images.unsplash.com/photo-1517504734587-2890819debab?q=80&w=1507&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Imagem de Fundo" style="border-radius: 10px; width: 100%; max-width: 600px;" />
 </div>
 
 ### 🚀 Tecnologias que eu domino:
