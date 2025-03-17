@@ -24,7 +24,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 <div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://previews.123rf.com/images/klyaksun/klyaksun2304/klyaksun230400265/202796995-night-futuristic-neon-egypt-city-with-pyramid-background-dark-cyber-architecture-in-desert-landscape.jpg" 
+  <img src="https://st.depositphotos.com/3877249/56433/v/450/depositphotos_564332558-stock-illustration-cartoon-nature-night-time-landscape.jpg" 
        alt="i"
        style="width: 100%; height: 100%; object-fit: cover; display: block;" height: 100vh;
 />
