@@ -2,6 +2,8 @@
 
 ## 🌟 Bem-vindo ao meu perfil GitHub! 🌟
 
+<img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+
 Sou um desenvolvedor apaixonado por **tecnologia**, **viagens** ✈️, e **jogos** 🎮.  
 Sempre em busca de **aprender**, **criar projetos incríveis** e **contribuir para a comunidade open-source**! 🚀  
 
@@ -11,10 +13,8 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 ---
 
 <div align="center">
-  <img src="https://images.pexels.com/photos/1824273/pexels-photo-1824273.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1" alt="Imagem de Fundo" style="border-radius: 10px; width: 300px; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://images.pexels.com/photos/1824273/pexels-photo-1824273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem de Fundo" style="border-radius: 10px; width: 300px; height: auto;" />
 </div>
-
----
 
 ### 🚀 Tecnologias que eu domino:
 <div align="center">
@@ -51,7 +51,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ficr.worka.love/perfil/leonardo-antonio-da-silva-07c4-7fdf">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt=" Portfólio" />
   </a>
 </div>
 
