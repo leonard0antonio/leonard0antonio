@@ -23,14 +23,6 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 </div>
 
 ---
-<div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/1995303-espaco-paisagem-com-grandes-planetas-no-ceu-estrelado-roxo-e-cidade-no-horizonte-ilustracao-natureza-em-outro-planeta-vetor.jpg" 
-       alt="i"
-       style="width: 100%; height: 100%; object-fit: cover; display: block;" height: 100vh;
-/>
-</div>
-
-
 
 ### 📊 Estatísticas do GitHub:
 
