@@ -23,10 +23,6 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 </div>
 
 ---
-
-  &nbsp
-  &nbsp
-  &nbsp
   <img src="https://static.vecteezy.com/ti/fotos-gratis/p1/48621611-roxa-matizes-as-nascer-do-sol-sobre-montanha-alcance-fundo-natureza-gratis-foto.jpg" height="230px";/>
 </div>
 
