@@ -24,8 +24,8 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 <div style="width: 100%; height: 300px; overflow: hidden;">
-  <img src="[https://pa1.aminoapps.com/6837/9470da5096cfd8db4c820886b496c8be02d79665_hq.gif" 
-       alt="Imagem animada](https://pt.vecteezy.com/arte-vetorial/2170333-marte-roxo-espaco-paisagem-com-grandes-planetas-no-ceu-estrelado-purpura-meteoros-e-montanhas-natureza-em-outro-planeta-com-um-grande-planeta-no-horizonte)"
+  <img src="https://pa1.aminoapps.com/6837/9470da5096cfd8db4c820886b496c8be02d79665_hq.gif](https://pt.vecteezy.com/arte-vetorial/2170333-marte-roxo-espaco-paisagem-com-grandes-planetas-no-ceu-estrelado-purpura-meteoros-e-montanhas-natureza-em-outro-planeta-com-um-grande-planeta-no-horizonte" 
+       alt="i"
        style="width: 100%; height: 100%; object-fit: cover; display: block;" height: 100vh;
 />
 </div>
