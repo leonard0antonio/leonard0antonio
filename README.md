@@ -12,8 +12,8 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 
-<div align="center">
-  <img src="https://images.pexels.com/photos/1824273/pexels-photo-1824273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem de Fundo" style="border-radius: 10px; width: 300px; height: auto;" />
+<<div align="center">
+  <img src="https://images.pexels.com/photos/1824273/pexels-photo-1824273.jpeg?auto=compress&cs=tinysrgb&w=300&h=200&dpr=1" alt="Imagem de Fundo" style="border-radius: 10px; width: 300px; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
 
 ### 🚀 Tecnologias que eu domino:
