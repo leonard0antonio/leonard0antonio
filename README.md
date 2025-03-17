@@ -23,10 +23,11 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 </div>
 
 ---
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://pt.vecteezy.com/foto/48621611-roxa-matizes-as-nascer-do-sol-sobre-montanha-alcance-fundo-natureza](https://pa1.aminoapps.com/6837/9470da5096cfd8db4c820886b496c8be02d79665_hq.gif";/>
+  <<div style="width: 100%;">
+  <img src="https://pa1.aminoapps.com/6837/9470da5096cfd8db4c820886b496c8be02d79665_hq.gif" 
+       alt="Imagem animada"
+       style="width: 100%; height: auto; display: block;" />
 </div>
-
 
 
 ### 📊 Estatísticas do GitHub:
