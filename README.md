@@ -12,6 +12,10 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 
+<div align="center">
+  <img src="https://unsplash.com/pt-br/fotografias/fotografia-de-paisagem-de-montanhas-r8AFUpRp0J0" alt="Imagem de Fundo" style="border-radius: 10px; width: 100%; max-width: 600px;" />
+</div>
+
 ### 🚀 Tecnologias que eu domino:
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
