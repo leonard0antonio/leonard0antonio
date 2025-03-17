@@ -13,7 +13,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1517504734587-2890819debab?q=80&w=1507&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Imagem de Fundo" style="border-radius: 10px; width: 100%; max-width: 600px;" />
+  <img src="https://images.unsplash.com/photo-1517504734587-2890819debab?q=80&w=300&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Imagem de Fundo" style="border-radius: 10px; width: 300px; height: auto;" />
 </div>
 
 ### 🚀 Tecnologias que eu domino:
@@ -51,7 +51,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://ficr.worka.love/perfil/leonardo-antonio-da-silva-07c4-7fdf">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt=" Portfólio" />
   </a>
 </div>
 
