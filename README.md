@@ -26,7 +26,8 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 <div style="width: 100%; height: 300px; overflow: hidden;">
   <img src="https://pa1.aminoapps.com/6837/9470da5096cfd8db4c820886b496c8be02d79665_hq.gif" 
        alt="Imagem animada"
-       style="width: 100%; height: 100%; object-fit: cover; display: block;" />
+       style="width: 100%; height: 100%; object-fit: cover; display: block;" height: 100vh;
+/>
 </div>
 
 
