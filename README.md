@@ -34,7 +34,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 ---
 
 ### 📈 Contribuições Recentes:
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevLeoCraft&theme=dracula&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leonard0antonio&theme=dracula&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff)
 
 ---
 
