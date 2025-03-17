@@ -27,13 +27,14 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
   &nbsp
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://static.vecteezy.com/ti/fotos-gratis/p1/48621611-roxa-matizes-as-nascer-do-sol-sobre-montanha-alcance-fundo-natureza-gratis-foto.jpg" width="65%" height="230px"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Miguelolivieira&bg_color=000000&color=928f9e&line=280df8&point=1344d8&area=true&hide_border=true" width="65%" height="230px"/>
   </a>
   &nbsp
   &nbsp
   &nbsp
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHh3eDl4bGlpMGRld2l2M25yMnU5Z2dtNWlscHJpOTNta3E1Z3NzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o9c3QvHJXjiI74BTmc/giphy.gif" height="230px";/>
 </div>
+
 
 
 ### 📊 Estatísticas do GitHub:
