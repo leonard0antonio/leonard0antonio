@@ -74,13 +74,4 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
   </a>
 </div>
 
----
-
-### 🎉 Um pouco mais sobre mim:
-- 👾 Amo **viagens** e **tecnologia**!
-- 🎶 Escuto música enquanto codifico.
-- 🚀 Estou sempre em busca de desafios e oportunidades de crescimento.
-
----
-
 > *"A jornada de mil milhas começa com um único passo."* — Lao Tzu
