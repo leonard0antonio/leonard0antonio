@@ -26,6 +26,27 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 
+### 🎓 Formação e Especialização:
+- **Formação**: Análise e Desenvolvimento de Sistemas
+- **Atualmente**: Focado em **desenvolvimento** e **análise** de sistemas, buscando aprimorar minhas habilidades técnicas e práticas.
+
+---
+
+### 💡 Habilidades:
+- **Python**, **Java**, **C**  
+- **SQL Server**  
+- **Git**  
+- **VS Code**  
+- **Figma**
+
+---
+
+### 🌍 Idiomas:
+- **Português**: Nativo  
+- **Inglês**: Básico
+
+---
+
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
