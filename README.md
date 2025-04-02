@@ -74,4 +74,5 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
   </a>
 </div>
 
+---
 > *"A jornada de mil milhas começa com um único passo."* — Lao Tzu
