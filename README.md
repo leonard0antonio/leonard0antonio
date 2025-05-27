@@ -4,8 +4,6 @@
 
 <img align="right" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 
-Sou um desenvolvedor apaixonado por **tecnologia**, **viagens** ✈️ e **jogos** 🎮.  
-Estou sempre em busca de **aprender novas habilidades**, **criar projetos incríveis** e **explorar novas maneiras de inovar e compartilhar conhecimento**! 🚀
 
 💬 Adoro colaborar em projetos, explorar novas tecnologias e desenvolver soluções criativas.  
 Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
