@@ -59,7 +59,7 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
   <a href="https://www.linkedin.com/in/leonardo-a-a063b519b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ficr.worka.love/perfil/leonardo-antonio-da-silva-07c4-7fdf">
+  <a href="https://leo-dev-mu.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" />
   </a>
 </div>
