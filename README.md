@@ -30,18 +30,10 @@ Se tiver uma ideia ou quiser trocar experiências, **me chame**! 🤝
 
 ---
 
-### 💡 Habilidades:
-- **Python**, **Java**, **C**  
-- **SQL Server**  
-- **Git**  
-- **VS Code**  
-- **Figma**
-
----
-
 ### 🌍 Idiomas:
 - **Português**: Nativo  
 - **Inglês**: Básico
+- **Espanhol**: Básico
 
 ---
 
