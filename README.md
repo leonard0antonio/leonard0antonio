@@ -1,7 +1,5 @@
 # 👋 Olá, eu sou o Leonardo Antonio! 
 
-### 🚀 Full Stack Developer | Resident in Technology @ Porto Digital
-
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="165em" />
 </p>
