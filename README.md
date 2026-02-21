@@ -46,8 +46,7 @@ Sou desenvolvedor focado em construir soluções escaláveis e seguras. Atualmen
 
 <div align="center">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonard0antonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img loading="lazy" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=leonard0antonio&theme=dracula" alt="GitHub Streak" />
-</div>
+  <img height="180em" src="https://github-readme-streak-stats.vercel.app/?user=leonard0antonio&theme=dracula&hide_border=true" alt="GitHub Streak" />
 
 ---
 
