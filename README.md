@@ -38,7 +38,6 @@ Sou desenvolvedor focado em construir soluções escaláveis e seguras. Atualmen
 ### 🎓 Foco Atual e Projetos:
 - **Residência Tecnológica Onboard**: Desenvolvendo projetos práticos no hub do Porto Digital.
 - **Certificação AWS**: Estudando para Cloud Practitioner para fortalecer habilidades em infraestrutura.
-- **QA & Automação**: Aplicando testes end-to-end para garantir a qualidade de software.
 
 ---
 
@@ -47,7 +46,7 @@ Sou desenvolvedor focado em construir soluções escaláveis e seguras. Atualmen
 <div align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonard0antonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
-  <img height="180em" src="https://github-readme-streak-stats-report-card.vercel.app/?user=leonard0antonio&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard0antonio&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
