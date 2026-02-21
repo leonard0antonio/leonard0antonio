@@ -3,7 +3,7 @@
 ### 🚀 Full Stack Developer | Resident in Technology @ Porto Digital
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/leonard0antonio?template=classic&base=languages&base.indepth=false&config.timezone=America%2FRecife" alt="Linguagens mais usadas" height="165em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="165em" />
 </p>
 
 Sou desenvolvedor focado em construir soluções escaláveis e seguras. Atualmente participo da **Residência Onboard no Porto Digital**, onde aplico tecnologias de ponta em desafios reais do ecossistema de inovação.
