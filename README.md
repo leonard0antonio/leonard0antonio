@@ -31,7 +31,8 @@
 
 ### 🎓 Foco Atual e Projetos:
 - **Residência Tecnológica Onboard**: Desenvolvendo projetos práticos no hub do Porto Digital.
-- **Certificação AWS**: Estudando para Cloud Practitioner para fortalecer habilidades em infraestrutura.
+- **Cloud & Infraestrutura**: Em preparação para a certificação AWS Certified Cloud Practitioner (via programa AWS re/Start), consolidando conhecimentos em arquitetura em nuvem e segurança.
+- **Desenvolvimento Full Stack**: Aprimorando habilidades técnicas através da construção de projetos práticos e cursos avançados, com foco em tecnologias como React, Node.js/Express.js, Python/Django, Java/Spring Boot.
 
 ---
 
