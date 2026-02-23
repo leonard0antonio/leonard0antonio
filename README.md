@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
----
+--
 
 ### 🎓 Foco Atual e Projetos:
 - **Residência Tecnológica Onboard**: Desenvolvendo projetos práticos no hub do Porto Digital.
