@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Removida a largura de 100% para a imagem não esticar e ficar menor e encaixada -->
-  <img src="https://i.pinimg.com/originals/e7/16/55/e7165502b2a1cf61fa81b20e02bad088.gif" alt="Pixel Art Espacial" />
+  <img src="https://wallpaperaccess.com/full/22801322.gif" width="100%" height="200" alt="Banner Espacial Pixel Art Grande"/>
 </div>
 
 <br/>
