@@ -1,57 +1,44 @@
-# 👋 Olá, eu sou o Leonardo Antonio! 
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leonard0antonio&layout=compact&langs_count=7&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="165em" />
-</p>
-
-### 🛠️ Minha Stack Principal:
-
-**Back-end & Cloud:**
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<div align="center">
+  <!-- Removida a largura de 100% para a imagem não esticar e ficar menor e encaixada -->
+  <img src="https://i.pinimg.com/originals/e7/16/55/e7165502b2a1cf61fa81b20e02bad088.gif" alt="Pixel Art Espacial" />
 </div>
 
 <br/>
 
-**Front-end & Database:**
-<div align="left">
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+# 👋 Olá, eu sou o Leonardo Antonio! 
+
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=leonard0antonio&theme=dracula" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=leonard0antonio&theme=dracula" width="48%" />
 </div>
-
---
-
-### 🎓 Foco Atual e Projetos:
-- **Residência Tecnológica Onboard**: Desenvolvendo projetos práticos no hub do Porto Digital.
-- **Cloud & Infraestrutura**: Em preparação para a certificação AWS Certified Cloud Practitioner (via programa AWS re/Start), consolidando conhecimentos em arquitetura em nuvem e segurança.
-- **Desenvolvimento Full Stack**: Aprimorando habilidades técnicas através da construção de projetos práticos e cursos avançados, com foco em tecnologias como React, Node.js/Express.js, Python/Django, Java/Spring Boot.
 
 ---
 
-### 📊 Estatísticas:
+### 🛠️ Minha Stack Principal:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leonard0antonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonard0antonio&theme=dracula" alt="GitHub Streak" />
+  <strong>Back-end & Cloud:</strong><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  
+  <br/><br/>
+  
+  <strong>Front-end & Database:</strong><br/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </div>
 
 ---
 
 ### 📫 Conecte-se comigo:
+
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-a-a063b519b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:leandrosilva00113@gmail.com">
+  <a href="mailto:leonardoantoniosilva7700@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leo-dev-mu.vercel.app/">
@@ -59,5 +46,8 @@
   </a>
 </div>
 
----
-> *"Construindo o futuro, um commit de cada vez."*
+<br/>
+
+<div align="center">
+  <em>"Construindo o futuro, um commit de cada vez."</em>
+</div>
