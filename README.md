@@ -52,15 +52,6 @@ Cursando **Análise e Desenvolvimento de Sistemas** na Faculdade Imaculada Conce
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonard0antonio&theme=dracula&no-frame=true&no-bg=true&margin-w=15" width="100%" />
-</div>
-
----
 
 ### 📫 Conecte-se comigo:
 
