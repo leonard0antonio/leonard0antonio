@@ -2,7 +2,7 @@
   <img src="https://wallpaperaccess.com/full/22801322.gif" width="100%" height="200" alt="Banner Espacial Pixel Art Grande"/>
   <br/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Leonardo+Antonio!;Desenvolvedor+Full+Stack;Entusiasta+em+IA+Generativa;Construindo+o+futuro..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Leonardo+Antonio!;Desenvolvedor+Full+Stack;Construindo+o+futuro..." alt="Typing SVG" />
 </div>
 
 <br/>
